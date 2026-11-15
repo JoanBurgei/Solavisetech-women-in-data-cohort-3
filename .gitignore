@@ -1,1 +1,20 @@
+# Ignore CSV datasets
+*.csv
+
+# Ignore Excel datasets
+*.xlsx
+*.xls
+
+# Ignore JSON datasets
+*.json
+
+# Ignore Parquet datasets
+*.parquet
+
+# Ignore data folders
+datasets/
+data/
+
+# Ignore Jupyter checkpoints
 .ipynb_checkpoints/
+
